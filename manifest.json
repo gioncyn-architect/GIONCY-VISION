@@ -1,7 +1,7 @@
 {
-  "name": "Gioncyn Vision",
+  "name": "Visi Gioncyn",
   "short_name": "Gioncyn",
-  "description": "Premium PWA Converter by Vivi Gioncyn",
+  "description": "Konverter PWA Premium oleh Vivi Gioncyn",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#764ba2",
